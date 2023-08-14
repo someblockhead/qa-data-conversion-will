@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+// the test plan is working
+// everything looks good to me
+// review by laura N
 public class Main {
     public static void main(String[] args) {
         double amount = inputAmount();
